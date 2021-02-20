@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(255, 168, 222);
+    color: #0181ff;
+}
+
+.navbar .container-fluid .navbar-brand:hover{
+    color:red;
+}
+.collapse .navbar-nav .nav-item a:hover{
+   color:red;
+}
+.container-fluid .row div h2 span{
+    color:red;
+}
+.text-white {
+    color: #f00!important;
+}
+#container{
+   margin: 100px 0px;
+}
+#container #text{
+    padding-top:0px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(0 0 0 / 55%);
+}
+.navbar-dark .navbar-brand {
+    color: #050505;
+}
+.bg-info {
+    background-color: #a0e7f54d!important;
+}
+
+.abc{
+    background-colo:#aedcf7; ;
+}
+
